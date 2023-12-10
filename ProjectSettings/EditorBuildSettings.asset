@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PapyrusRoom.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SnowdinTown.unity
+    guid: c68c517fa25a8c64f88f86bb1280ff70
   m_configObjects: {}
