@@ -1,7 +1,7 @@
 using UnityEngine;
 using TMPro;
 using UnityEngine.UI;
-public class ShowText : MonoBehaviour
+public class MostraTesto : MonoBehaviour
 {
     [SerializeField] Image txtbox;
     public TMP_Text testoDaMostrare;
